@@ -165,5 +165,3 @@ WV 1380514553806095862575661056
 
 23 counties found for WY.
 WY 151525994904
-
-Process finished with exit code 0
