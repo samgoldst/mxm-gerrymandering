@@ -1,5 +1,3 @@
-/Users/samgoldst/PycharmProjects/county_adjacencies/.venv/bin/python /Users/samgoldst/PycharmProjects/county_adjacencies/spanning_trees_by_state.py 
-
 30 counties found for AK.
 AK 24398893200
 
